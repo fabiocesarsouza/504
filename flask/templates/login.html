@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{%block titlle%}Pagina de login{%endblock%}
+{%block body%}
+<form action='/view/login' method="POST">
+    <label>Login</label>
+    <input type="text" name="name" id="login" required placeholder="Login usuario">
+    <label>Senha</label>
+    <input type="password" name="password" id="password" required placeholder="Senha">
+    <button>Entrar</button>
+</form>
+{%if auth%}
+    <p>{{auth}}</p>
+{%endif%}
+{%endblock%}
