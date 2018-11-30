@@ -1,4 +1,5 @@
 from flask import Blueprint, jsonify
+from connect import mongo_connect
 
 usuario =  Blueprint('usuario', __name__, url_prefix='/usuario')
 

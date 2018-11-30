@@ -1,0 +1,86 @@
+INFO:root:estou na funcao
+INFO:root:comecou
+INFO:root:estou na main
+INFO:root:comecou
+INFO:root:estou na main
+INFO:root:comecou
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:terminou
+INFO:root:estou na main
+WARNING:root:comecou
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:terminou
+INFO:root:estou na main
+WARNING:root:comecou
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:terminou
+INFO:root:estou na main
+WARNING:root:comecou
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:terminou
+WARNING:root:comecou
+WARNING:root:comecou
+INFO:root:estou na main
+WARNING:root:comecou
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:terminou
+11/30/2018 04:36:16 PM estou na main
+11/30/2018 04:36:16 PM comecou
+11/30/2018 04:36:16 PM estou na funcao
+11/30/2018 04:36:16 PM estou na funcao
+11/30/2018 04:36:16 PM estou na funcao
+11/30/2018 04:36:16 PM estou na funcao
+11/30/2018 04:36:16 PM estou na funcao
+11/30/2018 04:36:16 PM terminou
+INFO:root:estou na main
+WARNING:root:comecou
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:estou na funcao
+INFO:root:terminou
+11/30/2018 04:38:16 PM
+11/30/2018 04:38:16 PM
+11/30/2018 04:38:16 PM
+11/30/2018 04:38:16 PM
+11/30/2018 04:38:16 PM
+11/30/2018 04:38:16 PM
+11/30/2018 04:38:16 PM
+11/30/2018 04:38:16 PM
+11/30/2018 04:40:58 PM %(message)s
+11/30/2018 04:40:58 PM %(message)s
+11/30/2018 04:40:58 PM %(message)s
+11/30/2018 04:40:58 PM %(message)s
+11/30/2018 04:40:58 PM %(message)s
+11/30/2018 04:40:58 PM %(message)s
+11/30/2018 04:40:58 PM %(message)s
+11/30/2018 04:40:58 PM %(message)s
+11/30/2018 04:41:19 PM INFO estou na main
+11/30/2018 04:41:19 PM WARNING comecou
+11/30/2018 04:41:19 PM INFO estou na funcao
+11/30/2018 04:41:19 PM INFO estou na funcao
+11/30/2018 04:41:19 PM INFO estou na funcao
+11/30/2018 04:41:19 PM INFO estou na funcao
+11/30/2018 04:41:19 PM INFO estou na funcao
+11/30/2018 04:41:19 PM INFO terminou
